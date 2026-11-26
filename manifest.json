@@ -1,0 +1,28 @@
+{
+    "channel_title":  "Hansius Update-Kanal",
+    "latest":  "checkpoint-28",
+    "engine":  {
+                   "id":  "engine-v4.3",
+                   "exe_rel":  "Hansius_Engine.exe",
+                   "sha256":  "d0aaaee23b0837ab95d5c7841d35c516e33d7a9d51e3e070eeba248fa05ad14b",
+                   "size":  57458043,
+                   "parts":  [
+                                 "https://raw.githubusercontent.com/Reonee/hansius-updates/engine-v4.3/engine_00.enc",
+                                 "https://raw.githubusercontent.com/Reonee/hansius-updates/engine-v4.3/engine_01.enc",
+                                 "https://raw.githubusercontent.com/Reonee/hansius-updates/engine-v4.3/engine_02.enc"
+                             ]
+               },
+    "versions":  [
+                     {
+                         "id":  "checkpoint-28",
+                         "title":  "Checkpoint 28 — Dynamische Kampfmechanik \u0026 3-Stufen-KI",
+                         "date":  "2026-11-26",
+                         "notes":  "Mehrphasige Sektorgefechte, Gefechtsbreite, Taktik-Duelle, 3-Stufen-KI ohne Wallhack \u0026 Battle Analyzer 2.0.",
+                         "sha256":  "eadd8e63a6dfca4595efca8c21cba0947b9cb25c9947f4e729b248deeccf7946",
+                         "size":  7668844,
+                         "parts":  [
+                                       "https://raw.githubusercontent.com/Reonee/hansius-updates/checkpoint-28/game_00.enc"
+                                   ]
+                     }
+                 ]
+}
